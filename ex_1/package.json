@@ -1,0 +1,15 @@
+{
+  "name": "ex_1",
+  "version": "1.0.0",
+  "description": "Node JS exercise",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env server2.js"
+  },
+  "author": "TH",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
